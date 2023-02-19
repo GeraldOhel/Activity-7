@@ -1,0 +1,48 @@
+
+h1 {
+    background-color:blue;
+    text-align: center;
+    color:bisque;
+}
+
+a:hover{
+    background-color:rgb(88, 34, 34);
+}
+
+a{
+    text-decoration: none;
+    background-color:blue;
+    margin-left: 15px;
+    color:bisque;
+    font-weight: bold;
+}
+
+nav {
+    text-align: center;
+    background-color: bisque;
+}
+
+a{
+    text-decoration: none;
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+}
+
+.background {
+    column-count: 2;
+}
+
+section.hobbies {
+    column-count: 2;
+}
+
+footer {
+    text-align: center;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
